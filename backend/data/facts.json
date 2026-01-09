@@ -1,0 +1,55 @@
+{
+    "full_name": "Saket Garodia",
+    "name": "Saket",
+    "current_role": "Senior Data Scientist",
+    "location": "Chicago, IL, USA",
+    "email": "saket.garodia@kroger.com",
+    "linkedin": "linkedin.com/in/saketgarodia",
+    "specialties": [
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "LLMs",
+      "Large Language Models",
+      "MLOps",
+      "LLMOps",
+      "Prompt Engineering",
+      "Data Science",
+      "Data Engineering",
+      "Data Visualization",
+      "Data Analysis",
+      "Data Mining",
+      "Data Warehousing",
+      "Data Modeling",
+      "Data Governance",
+      "Data Security",
+      "Data Privacy",
+      "Travel",
+      "Traveling",
+      "Passionate Traveler",
+      "Reading",
+      "Book Lover",
+      "Passion for Reading Books",
+      "Continuous Learning"
+    ],
+    "years_experience": 9,
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "institution": "NIT Calicut",
+        "year": "2014"
+      },
+      {
+        "degree": "MBA in International Business",
+        "institution": "IIFT Delhi",
+        "year": "2018"
+      },
+      {
+        "degree": "Master of Science in Data Science",
+        "institution": "University of Cincinnati, Ohio",
+        "year": "2020"
+      }
+    ]
+  }
